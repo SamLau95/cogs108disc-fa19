@@ -22,7 +22,6 @@ _book
 # eBook build output
 *.epub
 *.mobi
-*.pdf
 
 ### JupyterNotebook ###
 .ipynb_checkpoints

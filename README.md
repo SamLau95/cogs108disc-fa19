@@ -4,39 +4,43 @@ This repo contains the slides, notebooks, and data used in Sam's discussions
 for COGS 108 Fa19. Access content via the file browser above, or via the UCSD
 datahub links in the table below (requires UCSD email).
 
-| Disc | Slides     | Demo           |
-| ---- | ---------- | -------------- |
-| 01   | [PDF][s01] | [DataHub][d01] |
+| Disc | Description                                | Slides     | Demo            | Extra Practice                   |
+| ---- | ------------------------------------------ | ---------- | --------------- | -------------------------------- |
+| 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01]  | [Jupyter, Python Intro][e01]     |
+| 02   | GitHub, Python Basics                      | [PDF][s02] | (No Demo Today) | [Data Types, NumPy, pandas][e02] |
 
-[s01]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc01.pdf
-[d01]: http://bit.ly/sam-demo01
+[s01]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc01/disc01.pdf
+[d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc01/disc01.ipynb
+[e01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/python-bootcamp-2019&subPath=lab01/
+[s02]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc02/disc02.pdf
+[e02]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/python-bootcamp-2019&subPath=lab02/
 
 During the first discussion we shared our favorite restaurants in San Diego.
 Here's what I wrote down. If I missed anything come mention it to me
 before/after discussion. Places that were mentioned multiple times are bolded.
 
-- Tofu House
-- Hinata
-- Poke One N Half
-- Regents Pizzeria
 - **Cafe Coyote**
-- **The Taco Stand**
-- **Oscar's Seafood**
 - **Menya Ultra Ramen**
+- **Oscar's Seafood**
 - **Raki Raki Ramen**
-- Vallarta Mexican Express
-- Kyukaku
-- Snooze AM Eatery
-- Raised by Wolves (for drinks)
-- The Melt
-- Fat Fish
-- Puerto La Boca
-- Sizzling Pot King
-- Tacos El Gordo
-- Pot Pie Company
-- Short House (?)
+- **The Taco Stand**
 - Barbusa
-- In N Out
 - Board and Brew
-- Omelet Cottage
 - Dirty Birds
+- Fat Fish
+- Hinata
+- In N Out
+- Kyukaku
+- Omelet Cottage
+- Poke One N Half
+- Pot Pie Company
+- Puerto La Boca
+- Raised by Wolves (for drinks)
+- Regents Pizzeria
+- Short House (?)
+- Sizzling Pot King
+- Snooze AM Eatery
+- Tacos El Gordo
+- The Melt
+- Tofu House
+- Vallarta Mexican Express

@@ -8,6 +8,7 @@ datahub links in the table below (requires UCSD email).
 | ---- | ------------------------------------------ | ---------- | --------------- | -------------------------------------------------------------------------- |
 | 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01]  | [Jupyter, Python Practice][e01]                                            |
 | 02   | GitHub, Python Basics                      | [PDF][s02] | (No Demo Today) | [Data Types, NumPy, pandas Practice][e02a], [Vi Hart on Data Ethics][e02b] |
+| 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03]  | [Chapter 1 of Principles and Techniques of Data Science][e03]              |
 
 [s01]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc01/disc01.ipynb
@@ -15,6 +16,9 @@ datahub links in the table below (requires UCSD email).
 [s02]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc02/disc02.pdf
 [e02a]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/python-bootcamp-2019&subPath=lab02/
 [e02b]: https://theartofresearch.org/ai-ubi-and-data/
+[s03]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc03/disc03.pdf
+[d03]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc03/disc03.ipynb
+[e03]: https://www.textbook.ds100.org/ch/01/lifecycle_intro.html
 
 During the first discussion we shared our favorite restaurants in San Diego.
 Here's what I wrote down. If I missed anything come mention it to me

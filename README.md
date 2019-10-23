@@ -22,7 +22,7 @@ datahub links in the table below (requires UCSD email).
 [e03]: https://www.textbook.ds100.org/ch/01/lifecycle_intro.html
 [s04]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc04/disc04.pdf
 [e04a]: https://www.textbook.ds100.org/ch/03/pandas_intro.html
-[e04a]: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+[e04b]: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 [e04c]: http://bit.ly/sam-pandas-01
 
 Here are some link that might have useful career advice or give you inspiration

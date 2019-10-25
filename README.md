@@ -31,10 +31,12 @@ for final projects:
 - [Don't Call Yourself a Programmer][a00]
 - [Optimal Selection of Police Beats][a01]
 - [AirBnB Math][a02]
+- [Uber tipping patterns][a03]
 
 [a00]: https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 [a01]: https://pdfs.semanticscholar.org/d4a1/2e6df361ba43d72a9b0a594f1f5a17ad340f.pdf%20It
 [a02]: https://twitter.com/rothosphere/status/1185299145504018432
+[a03]: https://www.washingtonpost.com/business/2019/10/22/young-women-get-most-tips-regular-riders-tip-less-lessons-million-uber-trips
 
 During the first discussion we shared our favorite restaurants in San Diego.
 Here's what I wrote down. If I missed anything come mention it to me

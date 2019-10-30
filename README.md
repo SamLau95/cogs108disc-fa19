@@ -32,12 +32,14 @@ datahub links in the table below (requires UCSD email).
 Here are some link that might have useful career advice or give you inspiration
 for final projects:
 
+- [Salary Negotiation][a05]
 - [Data Underload][a04]
 - [Uber tipping patterns][a03]
 - [AirBnB Math][a02]
 - [Optimal Selection of Police Beats][a01]
 - [Don't Call Yourself a Programmer][a00]
 
+[a05]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 [a04]: https://flowingdata.com/category/projects/data-underload/
 [a03]: https://www.washingtonpost.com/business/2019/10/22/young-women-get-most-tips-regular-riders-tip-less-lessons-million-uber-trips
 [a02]: https://twitter.com/rothosphere/status/1185299145504018432

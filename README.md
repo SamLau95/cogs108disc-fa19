@@ -4,12 +4,13 @@ This repo contains the slides, notebooks, and data used in Sam's discussions
 for COGS 108 Fa19. Access content via the file browser above, or via the UCSD
 datahub links in the table below (requires UCSD email).
 
-| Disc | Description                                | Slides     | Demo            | Extras                                                                             |
-| ---- | ------------------------------------------ | ---------- | --------------- | ---------------------------------------------------------------------------------- |
-| 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01]  | [Jupyter, Python Practice][e01]                                                    |
-| 02   | GitHub, Python Basics                      | [PDF][s02] | (No Demo Today) | [Data Types, NumPy, pandas Practice][e02a], [Vi Hart on Data Ethics][e02b]         |
-| 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03]  | [Chapter 1 of Principles and Techniques of Data Science][e03]                      |
-| 04   | pandas                                     | [PDF][s04] | (No Demo Today) | [Chapter 3 of PTDS][e04a], [10 mins to pandas][e04b], [Sam's pandas lecture][e04c] |
+| Disc | Description                                | Slides     | Demo            | Extras                                                                     |
+| ---- | ------------------------------------------ | ---------- | --------------- | -------------------------------------------------------------------------- |
+| 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01]  | [Jupyter, Python Practice][e01]                                            |
+| 02   | GitHub, Python Basics                      | [PDF][s02] | (No Demo Today) | [Data Types, NumPy, pandas Practice][e02a], [Vi Hart on Data Ethics][e02b] |
+| 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03]  | [Chapter 1 of Principles and Techniques of Data Science][e03]              |
+| 04   | pandas                                     | [PDF][s04] | (No Demo Today) | [Chapter 3 of PTDS][e04a], [10 mins to pandas][e04b]                       |
+| 04   | A2                                         | [PDF][s05] | [DataHub][d05]  | [Sam's pandas lecture slides][e05a], [Sam's pandas lecture video][e05b]    |
 
 [s01]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc01/disc01.ipynb
@@ -23,20 +24,25 @@ datahub links in the table below (requires UCSD email).
 [s04]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc04/disc04.pdf
 [e04a]: https://www.textbook.ds100.org/ch/03/pandas_intro.html
 [e04b]: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
-[e04c]: http://bit.ly/sam-pandas-01
+[s05]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc05/disc05.pdf
+[d05]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc05/disc05.ipynb
+[e05a]: http://bit.ly/sam-pandas-01
+[e05b]: https://www.youtube.com/watch?v=7ns-k29aMgE&feature=youtu.be
 
 Here are some link that might have useful career advice or give you inspiration
 for final projects:
 
-- [Don't Call Yourself a Programmer][a00]
-- [Optimal Selection of Police Beats][a01]
-- [AirBnB Math][a02]
+- [Data Underload][a04]
 - [Uber tipping patterns][a03]
+- [AirBnB Math][a02]
+- [Optimal Selection of Police Beats][a01]
+- [Don't Call Yourself a Programmer][a00]
 
-[a00]: https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
-[a01]: https://pdfs.semanticscholar.org/d4a1/2e6df361ba43d72a9b0a594f1f5a17ad340f.pdf%20It
-[a02]: https://twitter.com/rothosphere/status/1185299145504018432
+[a04]: https://flowingdata.com/category/projects/data-underload/
 [a03]: https://www.washingtonpost.com/business/2019/10/22/young-women-get-most-tips-regular-riders-tip-less-lessons-million-uber-trips
+[a02]: https://twitter.com/rothosphere/status/1185299145504018432
+[a01]: https://pdfs.semanticscholar.org/d4a1/2e6df361ba43d72a9b0a594f1f5a17ad340f.pdf%20It
+[a00]: https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 
 During the first discussion we shared our favorite restaurants in San Diego.
 Here's what I wrote down. If I missed anything come mention it to me

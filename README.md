@@ -10,7 +10,7 @@ datahub links in the table below (requires UCSD email).
 | 02   | GitHub, Python Basics                      | [PDF][s02] | (No Demo Today) | [Data Types, NumPy, pandas Practice][e02a], [Vi Hart on Data Ethics][e02b] |
 | 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03]  | [Chapter 1 of Principles and Techniques of Data Science][e03]              |
 | 04   | pandas primer, A2                          | [PDF][s04] | (No Demo Today) | [Chapter 3 of PTDS][e04a], [10 mins to pandas][e04b]                       |
-| 04   | State, slicing, A2 tips                    | [PDF][s05] | [DataHub][d05]  | [Sam's pandas lecture slides][e05a], [Sam's pandas lecture video][e05b]    |
+| 05   | State, slicing, A2 tips                    | [PDF][s05] | [DataHub][d05]  | [Sam's pandas lecture slides][e05a], [Sam's pandas lecture video][e05b]    |
 
 [s01]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc01/disc01.ipynb

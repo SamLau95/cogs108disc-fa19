@@ -13,6 +13,7 @@ datahub links in the table below (requires UCSD email).
 | 05   | State, slicing, A2 tips                    | [PDF][s05] | [DataHub][d05]  | [Sam's pandas lecture slides][e05a], [Sam's pandas lecture video][e05b]    |
 | 06   | A2 FAQ, Plotting, Text                     | [PDF][s06] | [DataHub][d06]  | [Chapter 3 of PTDS][e06a], [VADER for Python][e06b]                        |
 | 07   | Personal webpages with Jupyter, A3         | [PDF][s07] | [DataHub][d07]  | [Section 3.3 of PTDS][e07a]                                                |
+| 08   | seaborn, A4                                | [PDF][s08] | [DataHub][d08]  | [Section 6.1, 6.2 of PTDS][e08a]                                           |
 
 [s01]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc01/disc01.ipynb
@@ -37,6 +38,9 @@ datahub links in the table below (requires UCSD email).
 [s07]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc07/disc07.pdf
 [d07]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc07/disc07.ipynb
 [e07a]: https://www.textbook.ds100.org/ch/03/pandas_grouping_pivoting.html
+[s08]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc08/disc08.pdf
+[d08]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-fa19&subPath=disc08/disc08.ipynb
+[e08a]: https://www.textbook.ds100.org/ch/06/viz_quantitative.html
 
 Here are some link that might have useful career advice or give you inspiration
 for final projects:
